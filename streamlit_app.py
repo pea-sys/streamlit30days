@@ -1,4 +1,4 @@
-#conda activate stenv
+#conda activate stenv2
 #conda install pip
 #streamlit run streamlit_app.py
 
